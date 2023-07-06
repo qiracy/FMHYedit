@@ -69,10 +69,6 @@
 
 [Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [llarryyllarryy's Search Engine](https://llarryyllarryy.github.io/Max-Impact-Search/), [Lycos](https://www.lycos.com/), [dogpile](https://www.dogpile.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Goodshop](https://www.goodshop.com/), [Andi](https://andisearch.com/), [Instya](https://www.instya.com/), [Impersonal.me](https://ambition.dk/impersonal/), [Excite](https://search.excite.com/), [oscobo](https://www.oscobo.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](https://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Petal Search](https://petalsearch.com/), [seekport](https://www.seekport.com/), [Exalead](https://www.exalead.com/search/), [search.tl](http://www.search.tl/), [Carrot2](https://search.carrot2.org/#/web), [Surf Canyon](http://www.surfcanyon.com/), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [Entfer](https://entfer.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [Fagan Finder](https://www.faganfinder.com/), [Goofram](http://www.goofram.com/), [iZito](https://www.izito.com/), [MyAllSearch](http://www.myallsearch.com/), [ZapMeta](https://www.zapmeta.com/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/)
 
-**Non-English**
-
-[Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](https://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
-
 ***
 
 #### Alternative Software / App Sites
@@ -106,7 +102,6 @@
 
 #### Android Browsers
 
-* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
@@ -339,11 +334,9 @@
 
 #### Calculator Sites
 
-* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**
+* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)** - List of Calculators
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
-
-[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com)
 
 ***
 
@@ -351,7 +344,7 @@
 
 * ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
 
-[Calendly](https://calendly.com/), [Zoho Calendar](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Edo Agenda](https://agenda.edo.io/), [Calendar](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [Reclaim](https://reclaim.ai/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/), [VIR](https://tommyx12.github.io/VIR/)
+[Zoho Calendar](https://www.zoho.com/calendar/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/)
 
 ***
 
@@ -371,7 +364,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Character / Word Counters
 
-[Sites Compilation](https://rentry.co/bkrro), [Online Character Count Tool](https://www.charactercountonline.com/), [Character Counter](https://charactercounter.com/), [Character Count Tool](https://charactercounttool.com/), [Online Character Count](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [The Word Counter](https://thewordcounter.com/), [Charcounter](https://charcounter.com/), [Word Counter](https://wordcounter.io/), [Character Counter](https://charactercalculator.com/), [charactercount](https://charactercount.tools/)
+* ⭐ **[List of Character / Word Counters](https://rentry.co/bkrro)**
 
 ***
 
@@ -519,7 +512,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/)
 * ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
 
-[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/), [Pixelfed](https://pixelfed.org/)
+[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
 
 **Mastodon Tools**
 
@@ -686,9 +679,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Encrypted Email Services
 
 * ⭐ **[Proton Mail](https://proton.me/mail)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
-* ⭐ **[Skiff Mail](https://skiff.com/mail)**
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Dark Net Mail Exchange](https://dnmx.org/)
+[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.com/mail), [Dark Net Mail Exchange](https://dnmx.org/)
 
 ***
 
@@ -2020,14 +2012,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Based Browsers
 
+**Multi-Platform**
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) / [Directory](https://session.directory/) - Onion-Routed Browser
-* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
-* ⭐ **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
 
 [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Dot HQ](https://github.com/dothq/browser) / [Discord](https://discord.com/invite/WRDEK2D)
+
 
 **Android**
 
@@ -2061,7 +2052,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[privacyguides](https://www.privacyguides.org/)**
 * ⭐ **[Security List](https://security-list.js.org/)**
 
-[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [xbdms' Blog](https://tiny.write.as/xbdm/my-privacy-anonymity-and-security-list)
+[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [xbdms' Blog](https://tiny.write.as/xbdm/my-privacy-anonymity-and-security-list)
 
 ***
 
@@ -3054,7 +3045,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 
-[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/), [Tutorial Bar](https://www.tutorialbar.com/)
+[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
 
 ***
 
@@ -3409,7 +3400,6 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
-* [ReVanced Patches](https://github.com/inotia00/revanced-patches)
 * [ReVanced Patcher](https://github.com/decipher3114/Revancify)
 
 **ReVanced App Builders**
