@@ -1169,4 +1169,3 @@
 * [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies)
 * [MoviesFoundOnline](https://moviesfoundonline.com/)
 * [FREEMOVIESYT](https://www.youtube.com/@FREEMOVIESYT/)
-* [FreeGreatMovies](https://www.freegreatmovies.com/)
